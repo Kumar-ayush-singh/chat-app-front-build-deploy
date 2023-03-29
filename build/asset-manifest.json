@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.10b61aa1.css",
-    "main.js": "/static/js/main.40c5a9f1.js",
+    "main.js": "/static/js/main.f5e3e69f.js",
     "static/js/483.2bceef2e.chunk.js": "/static/js/483.2bceef2e.chunk.js",
-    "static/js/123.3fb5b35b.chunk.js": "/static/js/123.3fb5b35b.chunk.js",
+    "static/js/689.aaca0933.chunk.js": "/static/js/689.aaca0933.chunk.js",
     "static/js/787.35cea4b2.chunk.js": "/static/js/787.35cea4b2.chunk.js",
     "static/js/692.ae2ab459.chunk.js": "/static/js/692.ae2ab459.chunk.js",
-    "static/js/67.42619f3a.chunk.js": "/static/js/67.42619f3a.chunk.js",
+    "static/js/587.c52c9a8d.chunk.js": "/static/js/587.c52c9a8d.chunk.js",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
     "static/media/Barlow-Black.ttf": "/static/media/Barlow-Black.5b6aa950a7733ff40634.ttf",
     "static/media/Barlow-ExtraBold.ttf": "/static/media/Barlow-ExtraBold.777e300ed64d3d47cc85.ttf",
@@ -31,15 +31,15 @@
     "static/media/5.svg": "/static/media/5.1295b4f6617c4cffe7c30e9064a91fa9.svg",
     "index.html": "/index.html",
     "main.10b61aa1.css.map": "/static/css/main.10b61aa1.css.map",
-    "main.40c5a9f1.js.map": "/static/js/main.40c5a9f1.js.map",
+    "main.f5e3e69f.js.map": "/static/js/main.f5e3e69f.js.map",
     "483.2bceef2e.chunk.js.map": "/static/js/483.2bceef2e.chunk.js.map",
-    "123.3fb5b35b.chunk.js.map": "/static/js/123.3fb5b35b.chunk.js.map",
+    "689.aaca0933.chunk.js.map": "/static/js/689.aaca0933.chunk.js.map",
     "787.35cea4b2.chunk.js.map": "/static/js/787.35cea4b2.chunk.js.map",
     "692.ae2ab459.chunk.js.map": "/static/js/692.ae2ab459.chunk.js.map",
-    "67.42619f3a.chunk.js.map": "/static/js/67.42619f3a.chunk.js.map"
+    "587.c52c9a8d.chunk.js.map": "/static/js/587.c52c9a8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10b61aa1.css",
-    "static/js/main.40c5a9f1.js"
+    "static/js/main.f5e3e69f.js"
   ]
 }
